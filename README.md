@@ -18,13 +18,13 @@
 | [11. Функция.Валидатор судоку](./contest_02/11/main.cpp) | ![](./img/go.png) |
 | [12. Функция. Сапер (поле)](./contest_02/12/main.cpp) | ![](./img/go.png) |
 
-|[Контест 3](https://contest.yandex.ru/contest/52676/problems/) | |
-| —- | :-: |
+|[Контест 3](https://contest.yandex.ru/contest/52676/problems/) |  |
+| --- | :-: |
 | [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Валидатор скобочной последовательности](./contest_03/02/main.go) | ![](./img/cpp.png) |
 | [4. Общие слова в последовательностях](./contest_03/04/main.cpp) | ![](./img/cpp.png) |
 | [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
 | [8. Уникальное число](./contest_03/08/main.go) | ![](./img/go.png) |
-| ... | ... |
+
 
 
